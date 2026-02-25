@@ -1,0 +1,2 @@
+# RT5572
+RT5572USB_WiFi在immortalwrt上的驱动
